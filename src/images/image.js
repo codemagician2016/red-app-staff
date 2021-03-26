@@ -1,0 +1,15 @@
+module.exports = {
+    W1: require('./w1.png'),
+    w2: require('./w2.png'),
+    w3: require('./w3.png'),
+    flag:require('./flag.png'),
+    check:require('./check.png'),
+    event1:require('./event-1.png'),
+    star:require('./star.png'),
+    nosmoking:require('./no-smoking.png'),
+    nochlidren:require('./no-chlidren.png'),
+    nopets:require('./no-pets.png'),
+    freedrink:require('./free-drink.png'),
+    map:require('./map.png'),
+    dot:require('./dot.png'),
+}
